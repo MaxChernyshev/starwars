@@ -1,0 +1,6 @@
+/.idea
+/vendor
+#/web/core
+/web/sites/default/settings.php
+/web/themes/contrib/*
+/web/themes/custom/barrio_subtheme/node_modules
